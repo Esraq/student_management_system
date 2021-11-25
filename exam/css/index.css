@@ -1,0 +1,9 @@
+.ui.secondary.menu {
+    background-color: grey !important;
+    padding: 10px;
+}
+
+.ui.secondary.menu > .item {
+    color: white !important;
+    font-size: 18px !important;
+}
